@@ -1,4 +1,4 @@
-#NZPUG Special General Meeting Vote: motion to approve the Financial Statement for FY2017/2018
+# NZPUG Special General Meeting Vote: motion to approve the Financial Statement for FY2017/2018
 
 A Special General Meeting of New Zealand Python User Group Incorporated has been called for the period between the 2nd of May and the 21st of May 2019.  
 
